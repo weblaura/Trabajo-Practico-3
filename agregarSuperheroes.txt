@@ -1,0 +1,10 @@
+[ 
+{"id": 4, "nombreSuperheroe": "Capa Negra", "nombreReal": "Fernando Perez", 
+"nombreSociedad": "Vigilante", "edad": 35, "planetaOrigen": "Tierra", "debilidad": "Ninguna conocida", "poder": ["Invisibilidad", "velocidad"], "habilidadEspecial": "Entrenamiento de élite", "aliado": ["Hawkeye"], "enemigo": ["Taskmaster"]}, 
+{"id": 5, "nombreSuperheroe": "Miss Panter", "nombreReal": "Elena Sanchez", 
+"nombreSociedad": "Vigilante", "edad": 29, "planetaOrigen": "Tierra", "debilidad": "Control emocional", "poder": ["Agilidad extrema", "Resistencia"], 
+"habilidadEspecial": "Vision nocturna", "aliado": ["Ironman"], 
+"enemigo": ["Loki"]}, 
+{"id": 6, "nombreSuperheroe": "Camaleon", "nombreReal": "Carlos Gutierrez", "nombreSociedad": "Vigilante", "edad": 38, "planetaOrigen": "Tierra", "debilidad": "Frio", "poder": ["Fuerza aumentada", "Agilidad"], "habilidadEspecial": "Camuflaje", "aliado": ["Bucky Barnes"], "enemigo": ["Red Skull"]}, 
+{"id": 7, "nombreSuperheroe": "Doctor Strange", "nombreReal": "Stephen Strange", "nombreSociedad": "Hechicero Supremo", "edad": 40, "planetaOrigen": "Tierra", "debilidad": "Desconocida", "poder": ["Magia", "Teletransportación"], "habilidadEspecial": "Hechizos poderosos", "aliado": ["Wong"], "enemigo": ["Dormammu"]} 
+] 

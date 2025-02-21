@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "nombreSuperheroe": "Spiderman",
+    "nombreReal": "Peter Parker",
+    "nombreSociedad": "Vigilante",
+    "edad": 25,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Radioactiva",
+    "poder": [
+      "Trepar paredes",
+      "Sentido arácnido",
+      "Super fuerza",
+      "Agilidad"
+    ],
+    "habilidad Especial": "Redes de telaraña",
+    "aliado": [
+      "Ironman"
+    ],
+    "enemigo": [
+      "Duende Verde"
+    ]
+  },
+  {
+    "id": 2,
+    "nombreSuperheroe": "Ironman",
+    "nombreReal": "Tony Stark",
+    "nombreSociedad": "Vigilante",
+    "edad": 45,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Dependiente de la tecnología",
+    "poder": [
+      "Armadura blindada",
+      "Volar",
+      "Láseres"
+    ],
+    "habilidadEspecial": "Ingeniería avanzada",
+    "aliado": [
+      "Spiderman"
+    ],
+    "enemigo": [
+      "Mandarín"
+    ]
+  },
+  {
+    "id": 3,
+    "nombreSuperheroe": "Thor",
+    "nombreReal": "Thor Odinson",
+    "nombreSociedad": "Dios del Trueno",
+    "edad": 1000,
+    "planetaOrigen": "Asgard",
+    "debilidad": "Destruir su martillo",
+    "poder": [
+      "Controlar el trueno",
+      "Fuerza sobrehumana",
+      "Inmortal"
+    ],
+    "habilidad Especial": "Invocación de tormentas",
+    "aliado": [
+      "Loki"
+    ],
+    "enemigo": [
+      "Hela"
+    ]
+  },
+  {
+    "id": 4,
+    "nombreSuperheroe": "Capa Negra",
+    "nombreReal": "Fernando Perez",
+    "nombreSociedad": "Vigilante",
+    "edad": 35,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Ninguna conocida",
+    "poder": [
+      "Invisibilidad",
+      "velocidad"
+    ],
+    "habilidadEspecial": "Entrenamiento de élite",
+    "aliado": [
+      "Hawkeye"
+    ],
+    "enemigo": [
+      "Taskmaster"
+    ]
+  },
+  {
+    "id": 5,
+    "nombreSuperheroe": "Miss Panter",
+    "nombreReal": "Elena Sanchez",
+    "nombreSociedad": "Vigilante",
+    "edad": 29,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Control emocional",
+    "poder": [
+      "Agilidad extrema",
+      "Resistencia"
+    ],
+    "habilidadEspecial": "Vision nocturna",
+    "aliado": [
+      "Ironman"
+    ],
+    "enemigo": [
+      "Loki"
+    ]
+  },
+  {
+    "id": 6,
+    "nombreSuperheroe": "Camaleon",
+    "nombreReal": "Carlos Gutierrez",
+    "nombreSociedad": "Vigilante",
+    "edad": 38,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Frio",
+    "poder": [
+      "Fuerza aumentada",
+      "Agilidad"
+    ],
+    "habilidadEspecial": "Camuflaje",
+    "aliado": [
+      "Bucky Barnes"
+    ],
+    "enemigo": [
+      "Red Skull"
+    ]
+  },
+  {
+    "id": 7,
+    "nombreSuperheroe": "Doctor Strange",
+    "nombreReal": "Stephen Strange",
+    "nombreSociedad": "Hechicero Supremo",
+    "edad": 40,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Desconocida",
+    "poder": [
+      "Magia",
+      "Teletransportación"
+    ],
+    "habilidadEspecial": "Hechizos poderosos",
+    "aliado": [
+      "Wong"
+    ],
+    "enemigo": [
+      "Dormammu"
+    ]
+  }
+]
